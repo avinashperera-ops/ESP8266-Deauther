@@ -42,8 +42,4 @@ This project is a concept only. It is solely for educational purposes only. Thes
 ![IMG-20230306-WA0004](https://user-images.githubusercontent.com/65855605/223174750-f150ddd4-995c-4e60-a1e7-41a5e5d97d9c.jpg)
 ![IMG-20230306-WA0005](https://user-images.githubusercontent.com/65855605/223174762-e15d1c09-31e6-4e42-940c-474481fae53a.jpg)
 
-#� �E�S�P�8�2�6�6�-�D�e�a�u�t�h�e�r�
-�
-�#� �E�S�P�8�2�6�6�-�D�e�a�u�t�h�e�r�
-�
-�
+
