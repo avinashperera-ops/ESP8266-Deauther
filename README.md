@@ -1,6 +1,6 @@
 <h1 align="center">ESP8266 Deauther </h1>
 
-##ESP8266 Deauther
+## ESP8266 Deauther
 
 <img src='https://deauther.com/img/logo.png' alt='Deauther Logo' width='200' />
 
